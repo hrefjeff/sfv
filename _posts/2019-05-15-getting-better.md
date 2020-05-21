@@ -1,5 +1,5 @@
 ---
-layout: post_template
+layout: post
 title: How I went about getting better at SFV
 date: 2019-05-15 12:00:00 -0500
 ---
