@@ -23,11 +23,11 @@ permalink: /matchups/
                 </div>
                 <div class="content">
                     <p>{{item.description}}</p>
-                    {% for tech in item.technologies %}
-                    <span class="tag is-primary">{{tech}}</span> {% endfor %}
+                    {% for keyword in item.keywords %}
+                    <span class="tag is-primary">{{keyword}}</span> {% endfor %}
                 </div>
                 <footer class="card-footer">
-                    <a class="card-footer-item" href="{{item.link}}" target="_blank"><span>Check it out</span></a>
+                    <a class="card-footer-item" href="{{item.link}}" target="_blank"><span>Check it pdf</span></a>
                 </footer>
             </div>
         </div>
