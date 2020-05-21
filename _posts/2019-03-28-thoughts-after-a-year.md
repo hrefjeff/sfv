@@ -1,5 +1,5 @@
 ---
-layout: post_template
+layout: post
 title: "Thoughts after a year"
 date: 2019-03-28 12:00:00 -0500
 ---
