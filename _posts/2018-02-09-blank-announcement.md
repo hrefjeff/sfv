@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blank Announcement Reaction"
+title: "Blanka Announcement Reaction"
 date: 2018-02-10 12:00:00 -0500
 ---
 
