@@ -1,7 +1,7 @@
 {
     "items": [{
-            "name": "Portfolio",
-            "link": "/portfolio/"
+            "name": "Character Matchups",
+            "link": "/matchups/"
         },
         {
             "name": "About",
