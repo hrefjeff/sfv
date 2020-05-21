@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: post_template
 title: "Hello World!"
-date: 2017-06-09 12:00:00 -0500
+date: yyyy-mm-dd 12:00:00 -0500
 ---
 
 Hey, it's just my first post!
