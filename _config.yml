@@ -1,0 +1,16 @@
+# Site settings
+name: Jeffrey Allen
+email: jeffwayne256@gmail.com
+url: url
+description: "A blog and a portfolio"
+author: "Jeffrey Allen"
+title: "Big Test"
+permalink: pretty
+baseurl: /testjekyll
+
+# social
+github:
+  username: jeffreyallen92
+
+twitter:
+  username: boomiFGC
