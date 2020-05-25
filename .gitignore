@@ -1,3 +1,6 @@
 *.tmp
 ~$*.doc*
 Backup of *.doc*
+
+_site/
+.jekyll-cache/
