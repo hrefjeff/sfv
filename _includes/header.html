@@ -7,10 +7,6 @@
             <p class="subtitle is-4">
                 <em>{{ site.data.header.message }}</em>
             </p>
-            <p>
-                {% assign random = site.time | date: "%s%N" | modulo: site.data.header.size %}
-                <blockquote>&ldquo;{{ site.data.header[random].message }}&rdquo;</blockquote>
-            </p>
         </div>
     </div>
 </section>
