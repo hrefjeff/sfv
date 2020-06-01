@@ -1,4 +1,8 @@
 {
-    "paragraphs": ["Testing...", "More testing... <a href='http://slipsum.com/lite/'>http://slipsum.com/lite/</a>:", "Even more testing... ", "Dogs are the best. Every time you come home, they act like they haven't seen you in a year. And the good thing about dogs... is they got different dogs for different people. Like pit bulls. The dog of dogs. Pit bull can be the right man's best friend... or the wrong man's worst enemy. You going to give me a dog for a pet, give me a pit bull. Give me... Petey!"],
-    "highlights": ["Web Developer"]
+    "paragraphs": [
+        "My name is Jeffrey. I live Alabama, the Southeast portion of the U.S.A. Outside of gaming I develop cloud-based web applications and love riding bicycles!",
+        "I play SFV of course, but I also play smash bros, RPG's like Final Fantasy, and racing games.",
+        "You can find me playing mostly in the evening times. In the mornings I usually meditate or ride my bike to the coffee shop and read.",
+        "Finally, dogs are the best. Every time you come home, they act like they haven't seen you in a year. And the good thing about dogs... is they got different dogs for different people. Like pitbulls. The dog of dogs. If you're going to give me a dog for a pet, give me a pitbull."
+    ]
 }
