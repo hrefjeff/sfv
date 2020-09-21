@@ -1,9 +1,12 @@
 (function () {
+    
+    // Initialization
     const menu = document.querySelector('.nav-toggle');
     const navRight = document.querySelector('.nav-right');
 
     menu.addEventListener('click', toggleMenu);
 
+    // Methods
     function toggleMenu() {
         menu
             .classList
