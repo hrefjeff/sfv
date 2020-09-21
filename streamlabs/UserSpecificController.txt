@@ -1,0 +1,11 @@
+All axis 9
+
+Neutral 1.28571
+Up -1.00000
+Down 0.14286
+Left 0.71429
+Right -0.42857
+Up-Left 1.00000
+Down-Left 0.42857
+Up-Right -0.71429 
+Down-Right -0.14286
