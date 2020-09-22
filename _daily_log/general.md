@@ -2,7 +2,7 @@
 
 1. My DP with OZ feels lethargic. Pomodoro DP drills
 
-1. Stale block strings - I do the same block strings. Even if I know they aren't mashing through them, I still don't do fake stuff and lose my turn with light block strings that do no chip damage. I would like to test out doing cLP into cHP with OZ and more stance switches into buttons. Here are the true block strings I use the most:
+2. Stale block strings - I do the same block strings. Even if I know they aren't mashing through them, I still don't do fake stuff and lose my turn with light block strings that do no chip damage. I would like to test out doing cLP into cHP with OZ and more stance switches into buttons. Here are the true block strings I use the most:
 ```
     1. Young
         1. sMP -> sMP
@@ -15,9 +15,9 @@
          1. (4-framer) cLP -> sMP
          1. sMK -> sLK
 ```
-1. Jumping entirely too much, not focusing on neutral
+3. Jumping entirely too much, not focusing on neutral
 
-1. Defending vtrigger activations without backdashing/jumping back
+4. Defending vtrigger activations without backdashing/jumping back
 
 # 2020-09-22
 
