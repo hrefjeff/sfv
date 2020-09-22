@@ -1,6 +1,19 @@
 # Currently Working On
 
-1. My DP with OZ feels lethargic. Pomodoro DP drills
+1. Anti-airs
+    1. Old Zeku
+        1. HK DP with OZ feels lethargic. Pomodoro DP drills
+        1. crHP more! That's a legit anti-air in zone 2 almost at 3
+        1. air-to-air
+    1. Young Zeku
+        1. stMK
+        1. light shoulder
+        1. air-to-air
+            1. mp (causes juggle)
+            1. heavy punch
+            1. lp (jump back jab)
+            1. lk
+        1. CA
 
 2. Stale block strings - I do the same block strings. Even if I know they aren't mashing through them, I still don't do fake stuff and lose my turn with light block strings that do no chip damage. I would like to test out doing cLP into cHP with OZ and more stance switches into buttons. Here are the true block strings I use the most:
 ```
