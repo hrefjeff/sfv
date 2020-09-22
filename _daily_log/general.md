@@ -26,14 +26,14 @@ Entered into the reddit tourney and just missed top 8. Lost to LizardMan (rashid
 Rashid was using light spinning mixer in neutral and I could not deal well with it. It felt like Balrog's dash punch or Honda's headbutt. I got caught once backdashing the situation with eagle spike. It was more of a read than a reaction to the backdash. In training mode right after I did a small amount of practice. He did it at zone 2 mostly so I set the dummy up to do it at the same range. OB it is -2.
 
 1. Both
-  1. Neutral jump (but be careful, if he has meter he can react with ex eagle spike)
+    1. Neutral jump (but be careful, if he has meter he can react with ex eagle spike)
 1. OZ
-  1. cHP blown up because too slow
-  1. cMP is time specific. It'll trade in his favor more often than not
-  1. DP actually worked alot of the time
+    1. cHP blown up because too slow
+    1. cMP is time specific. It'll trade in his favor more often than not
+    1. DP actually worked alot of the time
 1. YZ
-  1. Just block. He put himself in a -2 situation and made it easier for me to execute Young Zeku's general gameplan
-  1. light palm trades in my favor because he gets knocked back
+    1. Just block. He put himself in a -2 situation and made it easier for me to execute Young Zeku's general gameplan
+    1. light palm trades in my favor because he gets knocked back
 
 killakam's momementum based. He'll hang back and whiff sMK most times. If akuma has full Vtrigger and CA get to a space right out of sweep range. He can't whiff red fireball
 activate anymore so find out if he's thirsty for activation or not and find an opening during the thirst.
