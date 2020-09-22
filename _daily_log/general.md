@@ -1,11 +1,42 @@
 # Currently Working On
-1. Stale block strings - I do the same block strings. Even if I know they aren't mashing through them, I still don't do fake stuff and lose my turn with light block strings that do no chip damage. I would like to test out doing cLP into cHP with OZ and more stance switches into buttons
+
+1. My DP with OZ feels lethargic. Pomodoro DP drills
+
+1. Stale block strings - I do the same block strings. Even if I know they aren't mashing through them, I still don't do fake stuff and lose my turn with light block strings that do no chip damage. I would like to test out doing cLP into cHP with OZ and more stance switches into buttons. Here are the true block strings I use the most:
+
+    1. Young
+      1. sMP -> sMP
+      1. cMP -> cLP -> cMP
+      1. cLP -> sMP -> sLK
+      1. cLK -> cLP -> cLK
+    1. Old
+      1. cLP -> cLP -> sLP -> koku
+      1. sMP -> sMP -> sLK
+      1. (4-framer) cLP -> sMP
+      1. sMK -> sLK
 
 1. Jumping entirely too much, not focusing on neutral
 
 1. Defending vtrigger activations without backdashing/jumping back
 
-1. My DP with OZ feels lethargic. Pomodoro DP drills
+# 2020-09-22
+
+Entered into the reddit tourney and just missed top 8. Lost to LizardMan (rashid) and og_killakam (akuma).
+
+Rashid was using light spinning mixer in neutral and I could not deal well with it. It felt like Balrog's dash punch or Honda's headbutt. I got caught once backdashing the situation with eagle spike. It was more of a read than a reaction to the backdash. In training mode right after I did a small amount of practice. He did it at zone 2 mostly so I set the dummy up to do it at the same range. OB it is -2.
+
+1. Both
+  1. Neutral jump (but be careful, if he has meter he can react with ex eagle spike)
+1. OZ
+  1. cHP blown up because too slow
+  1. cMP is time specific. It'll trade in his favor more often than not
+  1. DP actually worked alot of the time
+1. YZ
+  1. Just block. He put himself in a -2 situation and made it easier for me to execute Young Zeku's general gameplan
+  1. light palm trades in my favor because he gets knocked back
+
+killakam's momementum based. He'll hang back and whiff sMK most times. If akuma has full Vtrigger and CA get to a space right out of sweep range. He can't whiff red fireball
+activate anymore so find out if he's thirsty for activation or not and find an opening during the thirst.
 
 # 2020-09-21
 
