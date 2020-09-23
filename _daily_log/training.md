@@ -9,3 +9,7 @@ Rashid action recording settings that should be translated to other characters:
 1. CC move
 1. Walk back half a second
 1. Jump + heavy attack
+
+## 2020-09-23
+
+OZ anti-air pomodoros. I am moving constantly but I'm going to try to cut out noise/jitter in my movement. Moving with intent
