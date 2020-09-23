@@ -27,6 +27,7 @@
         b. sMP -> sMP -> sLK
         c. (4-framer) cLP -> sMP
         d. sMK -> sLK
+        e. sLK -> cLK -> cMK (fake)
 ```
 3. Jumping entirely too much, not focusing on neutral
 
