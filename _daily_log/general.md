@@ -33,6 +33,12 @@
 
 4. Defending vtrigger activations without backdashing/jumping back
 
+# 2020-09-24
+
+Watched an Infexious battle lounge replay. Saw a space trap I've never tried:
+
+cLK -> cLP -> sLK -> sLK (whiff) -> cMP buffer EX hazanto
+
 # 2020-09-22
 
 Entered into the reddit tourney and just missed top 8. Lost to LizardMan (rashid) and og_killakam (akuma).
