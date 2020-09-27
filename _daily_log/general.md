@@ -33,6 +33,12 @@
 
 4. Defending vtrigger activations without backdashing/jumping back
 
+# 2020-09-27
+
+I watched BushinMasterRD vs. Crossover's Seth. VT1 VS2. Interesting enough, I play the matchup the same way. Use vskill only after KD's (mainly with bushinsho). The thing I learned though is with YZ sHP -> EX bushinsho. It trades at max range with 3f-4f. 
+
+SO NEW THING COMING UP! More sHP into ex palm instead of sHP into stale ass EX dash. Even though ex dash gets through vreversals. I'll probably save that when I have VTrigger 1 active. Also, sHP -> sHP target combo into vtrigger 1 when already active is something I never use.
+
 # 2020-09-24
 
 Watched an Infexious battle lounge replay. Saw a space trap I've never tried:
