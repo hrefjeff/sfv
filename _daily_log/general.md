@@ -33,6 +33,12 @@
 
 4. Defending vtrigger activations without backdashing/jumping back
 
+# 2020-09-30
+
+I entered NLBC today. I'm VERY suprised that I have to even write down what I'm about to. I didn't vary my wake up options. I did backrise against dhalsim every. single. time. So, I'm going to add wake up with punches/kicks to dictate my wake up action to my list of "things I'm currently working on". I thought I was passed this. I guess not! 
+
+2nd game it was against an E.Honda. I used Karin. I got stale with jumps. Won my first game, lost the following 2. I just don't enjoy that matchup in general. Maybe I'll hit up JoeyJoeJoe.
+
 # 2020-09-27
 
 I watched BushinMasterRD vs. Crossover's Seth. VT1 VS2. Interesting enough, I play the matchup the same way. Use vskill only after KD's (mainly with bushinsho). The thing I learned though is with YZ sHP -> EX bushinsho. It trades at max range with 3f-4f. 
