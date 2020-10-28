@@ -2,11 +2,11 @@
 
 1. Anti-airs
     1. Old Zeku
-        1. HK DP with OZ feels lethargic. Pomodoro DP drills
+        1. HK DP with OZ feels lethargic. Pomodoro DP drills (ESPECIALLY POST-GRAB! Should be buffered _ALWAYS_)
         1. crHP more! That's a legit anti-air in zone 2 almost at 3
         1. air-to-air
     1. Young Zeku
-        1. stMK
+        1. stMK (ESPECIALLY POST-GRAB! Should be buffered _ALWAYS_)
         1. light shoulder
         1. air-to-air
             1. mp (causes juggle)
@@ -30,8 +30,6 @@
         e. sLK -> cLK -> cMK (fake)
 ```
 3. Jumping entirely too much, not focusing on neutral
-
-4. Defending vtrigger activations without backdashing/jumping back
 
 # 2020-09-30
 
