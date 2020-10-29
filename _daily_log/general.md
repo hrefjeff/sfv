@@ -31,6 +31,9 @@
 ```
 3. Jumping entirely too much, not focusing on neutral
 
+4. 1. Attack > 2. Cover Attack > 3. Whiff Punish > 1. Attack > 2 > 3 > 1 > 2 > 3 > 1 > repeat....
+    a. **more** walking up light buttons/throw if they are trying to whiff punish or bait you to jump
+
 # 2020-09-30
 
 I entered NLBC today. I'm VERY suprised that I have to even write down what I'm about to. I didn't vary my wake up options. I did backrise against dhalsim every. single. time. So, I'm going to add wake up with punches/kicks to dictate my wake up action to my list of "things I'm currently working on". I thought I was passed this. I guess not! 
