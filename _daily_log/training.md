@@ -17,3 +17,7 @@ OZ anti-air pomodoros. I am moving constantly but I'm going to try to cut out no
 Struggle = practice
 Flow = performance
 Flow is when difficulty meets skill at the right level
+
+## 2020-12-28
+
+I noticed the camera moves when someone jumps. Around the 7th frame the camera starts to move, and at the apex of the jump the camera is the highest. Also, your own character's feet are removed from the camera shot. I'm not sure what this leads to, but it's more information that can be used to decipher a jump.
