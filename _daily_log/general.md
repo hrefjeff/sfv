@@ -34,6 +34,14 @@
 4. 1. Attack > 2. Cover Attack > 3. Whiff Punish > 1. Attack > 2 > 3 > 1 > 2 > 3 > 1 > repeat....
     a. **more** walking up light buttons/throw if they are trying to whiff punish or bait you to jump
 
+# 2021-01-05
+
+Happy new year! I've already started this new year by doing an akuma rookie to diamond challenge. It has definitely allowed me to understand more about my own playstyle. Picking akuma was helpful in the fact that after every loss, I was able to easily identify and pinpoint my weakness in a situation becuase akuma has answers to everything. I got jumped in on? There are 3 different solid anti-airs (DP mostly though). Out neutraled? Stubby buttons are no excuse for not utilizing fireball. Opponent won with a pixel of health? Where did I not optimize a combo or gain stage position to bully them in the corner.
+
+Tournament-wise, it has begun with hard losses, but that just means I have alotta opportunities to grow stronger! One of the main things I'll call out for myself early on is to **BEGIN BUFFRING DP INPUT** after performing a throw with old zeku in the corner. There's little reason not to. If the opponent techs, we return to neutral and DP doesn't come out. If they neutral/back jump, __especially__ in the corner, DP happens with reward of KD. If the jump out of the corner, there may be a DP or a heavy kick which does dmg. Sitting there stuck is not helping. It's about the transition offense, as Keenan Cornelius (a great jiu jitsu practitioner) explains. When the move happens, he's already thinking about how it leads into the next.
+
+Also, after a successful throw in the corner, I micro walk for no reason with Young zeku. Immediate stHK beats standing 3f, jumps over lows, prevents jump out, and does nice grey health.
+
 # 2020-09-30
 
 I entered NLBC today. I'm VERY suprised that I have to even write down what I'm about to. I didn't vary my wake up options. I did backrise against dhalsim every. single. time. So, I'm going to add wake up with punches/kicks to dictate my wake up action to my list of "things I'm currently working on". I thought I was passed this. I guess not! 
