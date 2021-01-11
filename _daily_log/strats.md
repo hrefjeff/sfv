@@ -1,4 +1,4 @@
-# <span style="color:lightblue">General Plans</span>
+# General Plans
 
 Plan A: OZ Zoning
 
