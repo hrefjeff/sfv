@@ -3,6 +3,7 @@
 1. stHP -> EX flip
 2. stHK (instead of koku, be careful not to whiff this)
 3. crHP -> stLK -> mix koku and dash
+4. CA single button confirm
 
 # Young Zeku
 
@@ -16,3 +17,4 @@
 8. Opponent throwing lows? Use stHK
 9. cLP -> sLK -> c/s.HP space trap
 10. cMP -> cLP -> cMP -> cMP buffer EX shoulder
+11. CA single button confirm
