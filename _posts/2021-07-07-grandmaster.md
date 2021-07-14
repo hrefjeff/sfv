@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10,000
+title: Ten Thousand
 date: 2021-07-07 12:00:00 -0500
 ---
 
