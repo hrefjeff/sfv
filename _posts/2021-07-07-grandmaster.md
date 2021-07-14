@@ -1,9 +1,21 @@
 ---
-layout: post_template
+layout: post
 title: "10,000"
 date: 2021-07-07 12:00:00 -0500
 ---
 
-The lady on CFN (capcom fighters network) told me I have now officially use Zeku 10,000 times. Shortly after that I reached the rank of Grand Master. So a fun little thing I did was do some hand wavy calculation as to how much time that equated to. I came to find out at MINUMUM it would be 138 hours, and a maxiumum of 277 hours.
+I have officially use Zeku 10,000 times (the lady on CFN (capcom fighters network) told me that). Shortly after, I reached the rank of Grand Master. Malcom Gladwell wrote a book called "Outliers" that introduced the "10,000 hour rule" where it explains that it takes 10,000 hours of practice to become proficient at something. This rule can be applied to SFV to become better. I reached a plateau though and the game-changer for me was when I started employing _deliberate_ practice.
+
+## Physical Practice
+
+### Hand exerciser
+### Anti-air training
+### Working out
+
+## Mental Practice
+
+### Reading "Atomic Habits"
+### Playing Chess
+### Daily journal entries
 
 (to be continued)
