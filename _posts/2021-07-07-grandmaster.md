@@ -18,4 +18,4 @@ I have officially use Zeku 10,000 times (the lady on CFN (capcom fighters networ
 ### Playing Chess
 ### Daily journal entries
 
-(to be continued)
+to be continued...
