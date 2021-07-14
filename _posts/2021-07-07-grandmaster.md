@@ -14,7 +14,7 @@ I have officially use Zeku 10,000 times (the lady on CFN (capcom fighters networ
 
 ## *Mental Practice*
 
-### Reading "Atomic Habits"
+### Reading "Atomic Habits" and "Grit"
 ### Playing Chess
 ### Daily journal entries
 
