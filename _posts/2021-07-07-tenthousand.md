@@ -12,14 +12,14 @@ I have officially use Zeku 10,000 times (the lady on CFN (capcom fighters networ
 
 | What  | Why  | How  |
 |:---:|:---:|:---:|
-| Hand Excerciser | Improve dexterity for hitbox  | Use during car rides or walks  |
+| Hand Excerciser | Improve hitbox dexterity  | During walks/car rides press down with each step and try different rhythms |
 | Anti-Air Training | Improve overall game | Necalli V-Trigger whiff buttons and random jump 2.5/5/7.5/10/15 secs  |
-| Working Out | Boost mood/energy | Gym atleast 3 times a week |
+| Working Out | Boost energy/mood | Gym atleast 3 times a week |
 
 ## **Mental Practice**
 
 | What  | Why  | How  |
 |:---:|:---:|:---:|
-| Reading | Include concepts  | Read "Atomic Habits" and "Grit" |
+| Reading books | Include concepts outside of my day-to-day thinking | Read "Atomic Habits" and "Grit" |
 | Playing Chess | Improve strategy/decision making | Chess.com |
 | Daily Journal Entry | Keep track of progress | Google docs journal entry every day I play SFV |
