@@ -12,7 +12,7 @@ I have officially use Zeku 10,000 times (the lady on CFN (capcom fighters networ
 
 | What  | Why  | How  |
 |:---:|:---:|:---:|
-| Hand Excerciser | Improve hitbox dexterity  | During walks/car rides press down with each step and try different rhythms |
+| Hand Excerciser | Improve hitbox dexterity  | During walks I press down with each step and try different rhythms |
 | Anti-Air Training | Improve overall game | Necalli V-Trigger whiff buttons and random jump 2.5/5/7.5/10/15 secs  |
 | Working Out | Boost energy/mood | Gym atleast 3 times a week |
 
