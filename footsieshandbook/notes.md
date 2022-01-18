@@ -29,16 +29,16 @@ All these questions are relative because they change depending on which characte
 
 # Chapter 1 - Playing with max ranges
 
-## (Element 1)[https://www.youtube.com/watch?v=RgVUUHU84YU&ab_channel=Crayfis]
+## [Element 1](https://www.youtube.com/watch?v=RgVUUHU84YU&ab_channel=Crayfis)
 
 Momentarily step into your opponent's poke range and quickly back out instead of attacking.
 This bait works well in tense matches, after extended zoning periods of cautious zoning, or charge characters who rarely walk forward.
 
-## (Element 2)[https://www.youtube.com/watch?v=SV6ckXL7AW8#t=1h45m29s]
+## [Element 2](https://www.youtube.com/watch?v=SV6ckXL7AW8#t=1h45m29s)
 
 Determine which combo/attack strings position your opponents barely outside of reversal range, especially when facing characters with great mobility.
 
-## (Element 3)[https://www.youtube.com/watch?v=gNSK5IuSw3M&ab_channel=jchensor]
+## [Element 3](https://www.youtube.com/watch?v=gNSK5IuSw3M&ab_channel=jchensor)
 
 Once you've established a pattern of poking consistently at a certain range,
 use your opponent's hesitation to walk up and throw them.
