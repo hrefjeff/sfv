@@ -44,3 +44,26 @@ Once you've established a pattern of poking consistently at a certain range,
 use your opponent's hesitation to walk up and throw them.
 It's always dangerous to wander into enemy attack space,
 so wait until you're certain you've trained them to think twice about pushing buttons.
+
+# Chapter 4 - Defensive Footsies/Baiting Meter
+
+## [Element 10](https://youtu.be/Ns4D4129gA0?t=123)
+
+If your opponent has full meter and you can tell they're eagerly fishing to land it,
+stay far away for a while then walk into their c.MK range and immediately block low.
+It's a relatively safe gamble and if they take the bait, you can punish them or at the very least you'll have neutralized the threat of their super meter.
+If you're really advanced, you can take the hit with an airborne hop then pass right through the super.
+
+## [Element 11](https://www.youtube.com/watch?v=QYvGnYHZPbU#t=9m36s&ab_channel=Omnigamer)
+
+While on the receiving end of lengthy combos and rush sequences, a lot of players attempt reversal supers at difficult link junctions and possible breaking points.
+If you've caught your opponent gambling this way and you have a direct counter to their super move,
+sometimes it's worthwhile to create an intentional gap during your attack string by inserting the appropriate counter.
+If it works, the advantages are numerous.
+
+## [Element 12](https://www.youtube.com/watch?v=QYvGnYHZPbU#t=9m36s&ab_channel=Omnigamer)
+
+When an aggressive opponent willingly resets the match by pushing you away,
+don't spring for the first opportunity to make a major move. It could be a trap.
+Test the waters by whiffing a single low jab counter-bait or simply block patiently to see what your opponent has in mind.
+Sometimes remaining calm through a tense moment is all it takes to avoid defeat.
