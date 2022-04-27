@@ -45,6 +45,37 @@ use your opponent's hesitation to walk up and throw them.
 It's always dangerous to wander into enemy attack space,
 so wait until you're certain you've trained them to think twice about pushing buttons.
 
+# Chapter 3 - Cornered Opponents
+
+## [Element 7](https://www.youtube.com/watch?v=GJp85cRBRfw#t=1m59s&ab_channel=GunterJPN)
+
+Whenever you put your opponent in the corner, establish a SAFE range slightly outside of their reach.
+Once you get the feeling they're about to advance or let their guard down, walk up and poke their toes with a crMK.
+Getting hit or even blocking one of these gives a lot of players the urge to retaliate with one of their own.
+Simply let it whiff and then strike their extended limb.
+Veteran players often take a step forward before counterpoking, so you might want to give them a little extra room.
+
+## [Element 8](https://www.youtube.com/watch?v=yVyW0CnU4S8#t=4m56s&ab_channel=TrueTech)
+
+Shimmy is strong in the corner.
+Shortly after succeeding with a typical tickthrow setup, repeat a similar sequence except step backward instead of executing the throw.
+If you catch your opponent's tech attempt whiffing, respond with a damaging combo.
+The corner severely limits your opponent's options for escaping throws, thereby forcing them to take greater risks.
+They're certainly not going to walk out of your throw range, so they have to do something proactive to avoid dying to simple throw loops.
+Having nowhere to go also makes them an easy combo target when they get baited.
+
+## [Element 9](https://www.youtube.com/watch?v=yVyW0CnU4S8#t=4m13s&ab_channel=TrueTech)
+
+Following a basic combo or blockstring, poke with a light attack from max distance.
+The corner will ensure your attack doesn't whiff, so you lose nothing if they continue blocking.
+On the other hand if they happen to press a button, yours will usually come out sooner and stuff whatever they were trying to do.
+Most everyon'e natural reaction to having their attack interrupted is to block, so it makes easier to walk up and throw them in their hesitation.
+Some people have a habit of jumping instead. Just DP them
+
+### Tip: 2 types of approaches to corner offence
+[1.](https://www.youtube.com/watch?v=h8Gb3RlqJ1g#t=5m30s) Press the advantage and rush them down, armed with confidence your pokes aren't going to whiff
+[2.](https://www.youtube.com/watch?v=4wGWAxt5rPY#t=1m02s) Hold your ground and counter their every attempt to exit the corner. Waging a battle of attrition which heavily favors whomever the corner benefits.
+
 # Chapter 4 - Defensive Footsies/Baiting Meter
 
 ## [Element 10](https://youtu.be/Ns4D4129gA0?t=123)
@@ -67,3 +98,12 @@ When an aggressive opponent willingly resets the match by pushing you away,
 don't spring for the first opportunity to make a major move. It could be a trap.
 Test the waters by whiffing a single low jab counter-bait or simply block patiently to see what your opponent has in mind.
 Sometimes remaining calm through a tense moment is all it takes to avoid defeat.
+
+# Rules
+
+1. Never get predictable
+2. Dictate where the match will be fought
+3. Constantly monitor your opposition's state of mind
+4. Tactics are more reliable than gimmicks, so build your gameplan around tactics
+5. Forget about winning or losing. Go all out or don't even bother.
+6. 
