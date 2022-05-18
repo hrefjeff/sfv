@@ -21,3 +21,7 @@ Flow is when difficulty meets skill at the right level
 ## 2020-12-28
 
 I noticed the camera moves when someone jumps. Around the 7th frame the camera starts to move, and at the apex of the jump the camera is the highest. Also, your own character's feet are removed from the camera shot. I'm not sure what this leads to, but it's more information that can be used to decipher a jump.
+
+## 2020-12-30
+
+TIL about the fireball fake. So it's the motion for fireball but you don't do the fireball but rather use that input as a buffer for the next DP. For people that are paying attention to your start up of fireball it catches them.
