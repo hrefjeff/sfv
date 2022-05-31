@@ -12,7 +12,7 @@
             ]
         },
         {
-            "name": "OtherAbi",
+            "name": "Abi",
             "link": "/sfv/characters/abi",
             "image": "https://middleofnowheregaming.files.wordpress.com/2017/07/abigail-street-fighter-842x471.png",
             "date_added": "2020-05-21",
@@ -55,6 +55,18 @@
                 "3framer",
                 "Invincible Reversal",
                 "16frame dash"
+            ]
+        },
+        {
+            "name": "Rashid",
+            "link": "/sfv/characters/ras",
+            "image": "https://ik.imagekit.io/0eqydxstn/Rashid_SFV_Guide_KsLeKRbDg.jpg",
+            "date_added": "2022-05-31",
+            "description": "<small>RASHIIIIDO</small>",
+            "keywords": [
+                "Slow DP",
+                "Good VT1",
+                "VS2 go burr"
             ]
         },
         {
